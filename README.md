@@ -1,5 +1,7 @@
 Superstore Sales Dashboard using Tableau
 
+![Dashboard Screenshot](https://github.com/apoorvm09/Superstore-Overall-Sales-Analysis-Tableau-Dashboard/blob/main/Dashboard%20Screenshot.png)
+
 Overview- This repository contains a Tableau dashboard created using the famous Superstore dataset. The dashboard is designed to provide comprehensive insights into various aspects of sales performance throughout the year, product-wise, state-wise, and region-wise. The analysis and visualization provided in this dashboard can be immensely valuable for the top management to assess and analyze the overall performance of the Superstore.
 
 Tableau Features and Functions Utilized
